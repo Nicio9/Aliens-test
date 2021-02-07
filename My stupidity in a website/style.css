@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+/*bootifulness font*/
+.Booti {
+    font-family: 'Yusei Magic', sans-serif;
+}
+.Alien-pics  {
+    max-width: 400px;
+}
+h2 {
+    font-family: 'Leckerli One', cursive;
+}
+.container {
+    width: 800px;
+    margin: 10px auto;
+    text-align: center;
+    border: 20px solid red;
+    border-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top: thin;
+    border-bottom: thin;
+    background: rgb(23, 162, 255);
+}
+body {
+    background-color: darkblue;
+}
+.PB-link:hover {
+    color: red;
+    padding-left: 20px;
+    transition: all .5s ease;
+}
+.hunger {
+    font-size: 20px;
+    color: green;
+}
